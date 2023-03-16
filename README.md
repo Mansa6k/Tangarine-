@@ -13,8 +13,9 @@ The following technologies were used in this project:
 * Python
 * Pandas
 * Scikit-learn
-* TensorFlow
-* Keras
+* Pathlib
+* Numpy
+* Mathplotlib
 
 # Installation Guide
 To run this project, install the required libraries and dependencies by running the following command in your terminal:
@@ -23,9 +24,11 @@ pip install pandas
 
 pip install scikit-learn 
 
-pip install tensorflow
+pip install numpy
 
-pip install keras
+pip install pathlib
+
+pip install mathplotlib
 
 # Usage
 Clone the repository to your local machine and run the Jupyter notebook file named "machine_learning_trading_bot.ipynb". This will execute all the steps of the project and provide you with the results.
