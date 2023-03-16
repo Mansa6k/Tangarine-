@@ -1,12 +1,12 @@
 # Machine Learning Trading Bot
 
 # Overview
-In this project, we aimed to improve the algorithmic trading systems used by a financial advisory firm by enhancing the existing trading signals with machine learning algorithms that can adapt to new data. We followed the following steps:
+In this project, I aimed to improve the algorithmic trading systems used by a financial advisory firm by enhancing the existing trading signals with machine learning algorithms that can adapt to new data. I followed the following steps:
 * Imported and preprocessed a dataset of historical stock prices and technical indicators such as moving averages and trading volumes.
 * Trained and evaluated multiple machine learning models, including linear regression, random forest, and neural networks, to predict future stock prices.
 * Used the best performing model to make trading decisions automatically, based on its predictions.
 * Evaluated the performance of our trading bot using various metrics such as return on investment and accuracy.
-Our approach showed promising results, with our trading bot outperforming the baseline trading algorithm by a significant margin. We believe that our use of machine learning algorithms to enhance trading signals can provide a valuable tool for financial advisors in today's highly dynamic and competitive market.
+My approach showed promising results, with my trading bot outperforming the baseline trading algorithm by a significant margin. I believe that my use of machine learning algorithms to enhance trading signals can provide a valuable tool for financial advisors in today's highly dynamic and competitive market.
 
 # Technologies
 The following technologies were used in this project:
