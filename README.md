@@ -46,6 +46,5 @@ This project is licensed under the MIT license.
 
 The performance of the baseline strategy was underwhelming, as it resulted in a loss of approximately 30% based on past data analyzed. The strategy consisted of creating trading signals by utilizing short-term and long-term Simple Moving Average (SMA) values. The baseline SMA values were 4 periods for the short SMA and 100 periods for the long SMA. The strategy signals were set to 1 if the return was equal to or greater than 0, and -1 if the return was less than 0.
 
-![Baseline_Strategy_returns.jpg](https://github.com/Mansa6k/Tangarine/blob/main/Images/Baseline_Strategy_returns.jpg)
-
+Images/Baseline_Strategy_returns.jpg
 ---
